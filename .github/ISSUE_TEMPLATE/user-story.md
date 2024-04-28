@@ -18,3 +18,11 @@ As a **role** I can **capability** so that **received benefit**
     <li>Acceptance criteria 3</li>
   </ul>
 </section>
+<section>
+  <h1>Tasks</h1>
+Task 1 - [ ]
+  
+Task 2 - [ ]
+
+Task 3 - [ ]
+</section>
